@@ -1,0 +1,8 @@
+include ':app'
+rootProject.name = "Learning"
+include ':kotflinflows'
+include ':launchmodes'
+include ':myapplication'
+include ':java'
+include ':listviewvsrecyclerview'
+include ':composetour'
